@@ -9,7 +9,7 @@ body{
 header{
 	width: 100%;
 	height: 100vh;
-	background: url(file:///C:/Users/Achsu/OneDrive/Documents/PING%20PONG%20ACADEMIA/Main%20image.png) no-repeat 50% 50%;
+	background: url(MainImage.png) no-repeat 50% 50%;
 	background-size: cover;
 }
 
